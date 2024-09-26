@@ -18,7 +18,8 @@ This Power BI dashboard provides comprehensive insights into e-commerce sales tr
 The dataset used for this analysis is included in this repository as `ecommerce_data.csv`.
 
 **Screenshots:**  
-![Dashboard Overview](images/dashboard_overview.png) <!-- Adjust the path as needed -->
+![Dashboard Overview]![image](https://github.com/user-attachments/assets/e2a577c7-c6cf-425e-b2c0-5332446f5af3)
+) <!-- Adjust the path as needed -->
 
 **Installation:**  
 1. Clone the repository:  
